@@ -1,6 +1,13 @@
 # AulaGamma_homework2 gazebo
+[!logo turtlebot3](https://github.com/Paolococco94/homework2/blob/master/images/AulaGamma.png)
+[!aula gamma](https://github.com/Paolococco94/homework2/blob/master/images/AulaGamma.png)
+
+
 AA 2017/2018<br>
 Author: [Cocco Paolo]
+
+
+
 
 This file is distributed under the terms of the GNU Lesser General Public License (Lesser GPL) A.Y. 2017/2018
 University of Verona (Italy)
