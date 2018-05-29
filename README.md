@@ -20,8 +20,7 @@ You should have received a copy of the GNU Lesser General Public License along w
 In the exercise a Gazebo world is recreated that replicates a part of the computer science department of the University of Verona.
 Using the Turtlebot3 (virtual) robot, a map of the department is created and saved.
 The video shows the data displayed by Rviz when the robot is sent, with the 2D Nav Goal command, in a position of the virtual world.
-Link: https://github.com/Paolococco94/homework2/blob/master/laboratorio_ciberfisico_homework2.mp4
-
+Link: https://github.com/Paolococco94/homework2/blob/master/Turtlebot3_AulaGamma_video.mp4
 ## Instructions
 
 1. Clone this repository<br>
