@@ -1,5 +1,5 @@
 # AulaGamma_homework2 gazebo
-![logo turtlebot3](https://github.com/Paolococco94/homework2/blob/master/images/AulaGamma.png)
+![logo turtlebot3](https://github.com/Paolococco94/homework2/blob/master/images/logo_turtlebot3.png)
 ![aula gamma](https://github.com/Paolococco94/homework2/blob/master/images/AulaGamma.png)
 
 
