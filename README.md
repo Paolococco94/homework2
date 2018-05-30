@@ -39,7 +39,7 @@ Link: https://raw.githubusercontent.com/Paolococco94/homework2/master/Turtlebot3
 		rosrun rviz rviz -d rospack find turtlebot3_navigation / rviz / turtlebot3_nav.rviz
 
  (We use the 2D Pose Estimate key to provide the guess on the initial position of the robot)
- (We use the 2D Nav Goal key to provide the desired destination to the robot
+ (We use the 2D Nav Goal key to provide the desired destination to the robot)
 
 
 
